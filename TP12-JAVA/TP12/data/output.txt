@@ -1,0 +1,2 @@
+Bonjour, ceci est un test avec BufferedWriter.
+Ligne ajoutée avec succès.
